@@ -8,7 +8,7 @@ React redux example with react-router
 - http://manojsinghnegi.com/blog/2017/09/03/Implementing-redux-and-react-router-v4-in-your-react-app/
 
 ### To Start
-    - Download this repo and switch to first-step branch
+    - Download this repo
     - Run npm install
     - Run npm start
     - Go to localhost:8080
