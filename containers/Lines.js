@@ -27,4 +27,4 @@ import {setNumberOfLines} from '../actions/actions';
  }
 }
 
-export default connect(state => state)(Lines);
+export default Lines;

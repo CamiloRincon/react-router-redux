@@ -27,4 +27,4 @@ import {setHowMuchData} from '../actions/actions';
  }
 }
 
-export default connect(state => state)(Data);
+export default Data;

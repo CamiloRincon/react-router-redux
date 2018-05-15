@@ -25,4 +25,4 @@ import {connect} from 'react-redux';
  }
 }
 
-export default connect(state => state)(Last);
+export default Last;
