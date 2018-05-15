@@ -13,6 +13,7 @@ class App extends Component {
 	}
 
 	handleOnChange = (value) => {
+		console.log(this.props);
 		this.props.dispatch(setNumberOfContacts(value))
 	}
 
